@@ -1,0 +1,24 @@
+
+
+
+.ui.centered.grid.menugrid {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  margin-top: 0px;
+}
+.ui.menu{
+  background:none;
+}
+
+.ui.menu .item{
+  color:white;
+}
+
+.ui.image.smallpic{
+  height:175px;
+}
+
+.ui.grid .row{
+  color:white;
+}
